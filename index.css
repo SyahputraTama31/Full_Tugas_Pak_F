@@ -8,7 +8,7 @@
 
 
 header {
-    background-color: rgb(66, 76, 76);
+    background: linear-gradient(90deg,rgb(102, 100, 100),rgb(185, 185, 185));
     padding: 15px;
 
 }
@@ -29,6 +29,7 @@ header nav ul {
 header nav ul li a{
     text-decoration: none;
     color: white;
+    font-size: 3vh;
 
 }
 .banner {
